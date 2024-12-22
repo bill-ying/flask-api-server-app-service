@@ -1,0 +1,8 @@
+Flask
+gunicorn
+azure-identity
+azure-mgmt-compute
+azure-storage-blob
+azure-keyvault-secrets
+azure-mgmt-resource
+Flask-Cors
